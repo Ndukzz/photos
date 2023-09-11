@@ -1,0 +1,5 @@
+.photos > img {
+    display: flex;
+    flex-wrap: wrap;
+    width: 500px;
+}
